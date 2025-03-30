@@ -1,63 +1,104 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/abapomon/assets/main/pokemon-avatar.png" width="150" alt="Ryan's Pokémon Avatar"/>
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=FF5252&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Ryan+%F0%9F%94%BB;aka+abapomon+%F0%9F%90%83+%E2%9A%96%EF%B8%8F+Code+Master;Catching+Bugs+%2B+Building+Dreams">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=1A91FF&center=true&vCenter=true&width=800&height=80&lines=Hey%2C+I'm+Ryan!;Full-Stack+Dev+%7C+Embedded+Engineer;Building+Futuristic+Tech!">
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abapomon/assets/main/pokemon-banner.png" width="80%" alt="Pokémon Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome+to+My+Profile!&fontSize=50&fontAlign=70&animation=fadeIn" alt="fancy-banner"/>
 </p>
 
 <p align="center">
-  <b>🧠 Full-Stack Dev | ⚙️ Embedded Engineer | 🎮 Pokémon Trainer IRL</b><br/>
-  Building innovative tech one badge at a time 🏅
+  <b>⚡ Computer Engineer • Full-Stack Developer • Embedded Systems Innovator ⚡</b><br/>
+  <i>Pushing boundaries with web, hardware, and accessibility-focused projects!</i>
 </p>
 
 ---
 
-## 🎒 My PokéSkills
+## 🔧 Tech Stack & Tools
 
-### 🔥 Frontend Types
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Shadcn](https://img.shields.io/badge/Shadcn/UI-111827?style=flat-square&logo=vercel&logoColor=white)
+### 💻 Web Development
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-111827?style=for-the-badge&logo=vercel&logoColor=white)
 
-### ⚡ Backend Types
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCB2B?style=flat-square&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+### ⚙️ Backend & DB
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### ⚙️ Hardware Types
-![ESP32](https://img.shields.io/badge/ESP32-black?style=flat-square&logo=espressif&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
----
-
-## 🧩 Projects in My Pokédex
-
-| Project | Type | Description |
-|--------|------|-------------|
-| 🦾 **Braille Printer** | Hardware | ESP32-powered, solenoid-based printer for Braille — bridging tech & accessibility |
-| 🎮 **Pokedex Explorer** | Web | A slick, drawer-based UI for exploring Pokémon data |
-| 🛍️ **Next E-commerce** | Full-Stack | Supabase + Tailwind shopping platform for modern users |
-| 🏡 **Reno Gallery** | Frontend | Instagram-style scrollable gallery with filters & mobile drawer previews |
-
-> _"Gotta code 'em all!"_
+### 📟 Embedded & Hardware
+![ESP32](https://img.shields.io/badge/ESP32-333333?style=for-the-badge&logo=espressif&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
-## 🧠 About Me
+## 🛠️ What I Do
 
-```js
-const abapomon = {
-  name: "Ryan Angelo Abapo",
-  type: ["Full-Stack", "Embedded"],
-  location: "Philippines",
-  favoritePokemon: ["Umbreon", "Lucario", "Gengar", "Bulbasaur"],
-  catchphrase: "Code, evolve, repeat!",
-}
+- 🛠️ **Full-stack apps:** Modern, mobile-first web apps with stunning UI
+- 🔧 **Hardware builds:** From ESP32-based gadgets to CNC mechanisms
+- 🧠 **Problem-solving:** Innovating accessible tech and more
+- 📱 **Responsive design:** Ensuring cross-platform, seamless experiences
+- ✍️ **Research & writing:** Documenting cutting-edge projects
+
+---
+
+## 🚀 Featured Projects
+
+### 🔬 **Braille Printer (ESP32-based)**
+> An assistive Braille printer using solenoids, steppers, and async control via web input — advancing accessibility tech.
+
+### 🎮 **Pokédex Explorer**
+> An interactive Pokémon database featuring a drawer-based UI and smooth animations for detailed exploration.
+
+### 🛍️ **Next.js E-commerce Store**
+> Full-featured online store, utilizing Supabase for authentication, and a sleek UI for the ultimate shopping experience.
+
+---
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abapomon&show_icons=true&theme=radical&count_private=true&hide=prs" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abapomon&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abapomon&theme=radical" width="80%" />
+</p>
+
+---
+
+## 🌱 Currently Building
+
+<p align="center">
+  <a href="https://github.com/abapomon/braille-printer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=2000&color=E91E63&width=450&height=50&lines=🦾+ESP32-Based+Braille+Printer">
+  </a>
+</p>
+> Portable, cost-effective assistive device utilizing solenoids and a real-time web interface to print Braille.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.instagram.com/abapomon/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ryan-angelo-abapo-680981304/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/ryanangelo.abapz" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+</p>
