@@ -1,8 +1,14 @@
-<h1 align="center">Hey there! I'm Ryan — aka <a href="https://github.com/abapomon">abapomon</a> 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=1A91FF&center=true&vCenter=true&width=800&height=80&lines=Hey%2C+I'm+Ryan!;Full-Stack+Dev+%7C+Embedded+Engineer;Building+Futuristic+Tech!">
+</h1>
 
 <p align="center">
-  <b>Computer Engineer • Full-Stack Developer • Embedded Systems Maker</b><br/>
-  🚀 Building tech that bridges the digital and physical world
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome+to+My+Profile!&fontSize=50&fontAlign=70&animation=fadeIn" alt="fancy-banner"/>
+</p>
+
+<p align="center">
+  <b>⚡ Computer Engineer • Full-Stack Developer • Embedded Systems Innovator ⚡</b><br/>
+  <i>Pushing boundaries with web, hardware, and accessibility-focused projects!</i>
 </p>
 
 ---
@@ -10,69 +16,97 @@
 ## 🔧 Tech Stack & Tools
 
 ### 💻 Web Development
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![Shadcn/UI](https://img.shields.io/badge/-Shadcn/UI-000000?style=flat&logo=data:image/svg+xml;base64,...)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/Shadcn/UI-111827?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### ⚙️ Backend & DB
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 📟 Embedded & Hardware
-![ESP32](https://img.shields.io/badge/-ESP32-333333?style=flat&logo=espressif)
-![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![AccelStepper](https://img.shields.io/badge/-AccelStepper-FFDD00?style=flat&logo=hackaday)
+![ESP32](https://img.shields.io/badge/ESP32-333333?style=for-the-badge&logo=espressif&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
 ## 🛠️ What I Do
 
-- 🔨 Full-stack web apps with modern UI/UX
-- 🤖 ESP32 hardware projects & CNC-style mechanisms
-- 🧠 Creative problem-solving from concept to product
-- 📱 Responsive, mobile-first design and accessibility
-- ✍️ Research, technical writing, and documentation
+- 🛠️ **Full-stack apps:** Modern, mobile-first web apps with stunning UI
+- 🔧 **Hardware builds:** From ESP32-based gadgets to CNC mechanisms
+- 🧠 **Problem-solving:** Innovating accessible tech and more
+- 📱 **Responsive design:** Ensuring cross-platform, seamless experiences
+- ✍️ **Research & writing:** Documenting cutting-edge projects
+
+---
+
+## 🚀 Featured Projects
+
+### 🔬 **Braille Printer (ESP32-based)**
+> An assistive Braille printer using solenoids, steppers, and async control via web input — advancing accessibility tech.
+
+### 🎮 **Pokédex Explorer**
+> An interactive Pokémon database featuring a drawer-based UI and smooth animations for detailed exploration.
+
+### 🛍️ **Next.js E-commerce Store**
+> Full-featured online store, utilizing Supabase for authentication, and a sleek UI for the ultimate shopping experience.
+
+---
+
+## 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abapomon&show_icons=true&theme=radical&count_private=true&hide=prs" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abapomon&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abapomon&theme=radical" width="80%" />
+</p>
 
 ---
 
 ## 🌱 Currently Building
 
-**🦾 ESP32-Based Braille Printer**  
-> Portable, low-cost assistive tech using solenoids & stepper motors — controlled by an async web server and real-time keyboard input.
+<p align="center">
+  <a href="https://github.com/abapomon/braille-printer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=2000&color=E91E63&width=450&height=50&lines=🦾+ESP32-Based+Braille+Printer">
+  </a>
+</p>
+> Portable, cost-effective assistive device utilizing solenoids and a real-time web interface to print Braille.
 
 ---
 
-## 📌 Featured Projects
-
-- 🛍️ `next-ecommerce`: Fast & sleek shopping experience built with Next.js, Supabase & Tailwind  
-- 🎮 `pokedex-explorer`: Interactive Pokémon explorer with animated UI and drawer-based detail view  
-- 🏠 `reno-gallery`: Instagram-style gallery with dynamic filtering and project previews  
-- 🔬 `braille-printer`: Embedded project featured in academic research and accessible tech
-
----
-
-## 📈 GitHub Stats
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abapomon&show_icons=true&theme=tokyonight&hide=prs" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abapomon&layout=compact&theme=tokyonight" width="40%" />
+  <a href="https://www.instagram.com/abapomon/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ryan-angelo-abapo-680981304/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/ryanangelo.abapz" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🌐 Let's Connect!
+## 📊 Contribution Activity
 
-- 📬 Open to freelance, collabs, and cool ideas!
-- 🔗 [GitHub](https://github.com/abapomon)
-- 🧠 “Code is not just lines — it’s a bridge between ideas and impact.”
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=abapomon&theme=react-dark&bg_color=20232a&hide_border=true&line=61dafb&color=61dafb&point=F473B9" width="80%" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:3178C6&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
 </p>
