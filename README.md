@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <b> Computer Engineer • Full-Stack Developer • Embedded Systems Innovator </b><br/>
+  <b> Computer Engineer • Full-Stack Developer • Embedded Systems </b><br/>
   <i>Pushing boundaries with web, hardware, and accessibility-focused projects!</i>
 </p>
 
