@@ -99,14 +99,6 @@
 
 ---
 
-## 📊 Contribution Activity
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=abapomon&theme=react-dark&bg_color=20232a&hide_border=true&line=61dafb&color=61dafb&point=F473B9" width="80%" />
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
 </p>
